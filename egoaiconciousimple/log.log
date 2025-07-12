@@ -1,0 +1,511 @@
+/Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/egoaiconcious/persistent_identity_poc.pyxyz.py
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/egoaiconcious/persistent_identity_poc.pyxyz.py
+🚀 Advanced Neurobiologically-Inspired Persistent Identity AI
+======================================================================
+📦 Required packages: pip install numpy scipy sklearn requests feedparser
+
+Choose simulation mode:
+1. Advanced DeepSeek R1 + Real-time data (Full system)
+2. Advanced DeepSeek R1 + Demo data (Fast testing)
+3. Mock mode + Real-time data (Demo with real feeds)
+4. Mock mode + Demo data (Fastest demo)
+5. Analyze existing data only
+Choice (1/2/3/4/5): 1
+
+Configuration:
+  LLM: DeepSeek R1 (Real)
+  Data: Real-time APIs/RSS
+
+Select domain specialization:
+1. Financial Analysis (stocks, crypto, markets)
+2. Research Collaboration (papers, science, tech)
+3. General Intelligence (mixed domains)
+Choice (1/2/3): 1
+Number of experiences (10-50): 30
+
+Final Configuration:
+  Domain: financial_analysis
+  Experiences: 30
+  Real-time data: True
+  DeepSeek R1: True
+
+📋 Advanced Simulation Requirements:
+   1. Ollama running ('ollama serve')
+   2. DeepSeek R1 installed ('ollama pull deepseek-r1:1.5b')
+   3. ~4-6GB free RAM for advanced processing
+   4. Several minutes processing time
+
+Ready for advanced simulation? (y/n): y
+
+🌐 Real-time Data Sources:
+   📈 Financial: Yahoo Finance, CoinGecko, FRED Economic Data
+   📰 News: NewsAPI, RSS feeds from major outlets
+   🔬 Research: arXiv, Nature RSS, Science feeds
+   📊 Crypto: CoinGecko API, CoinTelegraph RSS
+
+🎯 Running Advanced Simulation...
+Mode: Real AI + Real Data
+
+🧠 Advanced Neurobiologically-Inspired Persistent Identity AI
+================================================================================
+Domain: financial_analysis
+Experiences: 30
+LLM Mode: DeepSeek R1 (Real)
+Data Source: Real-time APIs/RSS
+
+🔄 Testing Ollama connection...
+✅ Ollama connection successful!
+🔑 Optional API Keys for Enhanced Data (press Enter to skip):
+   Get free keys from:
+   - NewsAPI: https://newsapi.org/register
+   - Alpha Vantage: https://www.alphavantage.co/support/#api-key
+   - FRED: https://fred.stlouisfed.org/docs/api/api_key.html
+
+NewsAPI key (optional): 
+Alpha Vantage key (optional): 
+FRED API key (optional): 
+ℹ️  Using free/RSS sources (still provides real-time data!)
+
+🎭 Initial Personality Profile:
+   Big Five Traits: {'openness': 0.75, 'conscientiousness': 0.85, 'extraversion': 0.6, 'agreeableness': 0.7, 'neuroticism': 0.35}
+   Core Values: {'accuracy': 0.95, 'integrity': 0.9, 'efficiency': 0.8, 'prudence': 0.85, 'transparency': 0.8}
+   Identity Anchors: ['data_driven_analyst', 'prudent_advisor', 'continuous_learner']
+   Development Stage: emerging_expertise
+
+🌐 Fetching real-time financial_analysis data...
+✅ Fetched 30 real experiences from 6 sources
+🔄 Processing Experiences...
+--------------------------------------------------
+📝 Experience 1/30
+   Content: Hyperlane surged 229.03% in 24 hours, currently trading at $0.39. Market shows bullish sentiment wit...
+   Novelty: 0.950
+   🧠 Cortical: 1 patterns, Accuracy: 0.532
+   🎭 Identity: Coherence: 0.933, Stability: 0.775
+   🔗 Integration: Quality: 0.683, Sync: 0.599
+   ⏱️  Processing: 47.6s
+
+📝 Experience 2/30
+   Content: Circle's USDC Is Being Adopted by Jack Ma Payment Giant Ant Group. The Chinese parent company of Ali...
+   Novelty: 0.600
+   🧠 Cortical: 1 patterns, Accuracy: 0.567
+   🎭 Identity: Coherence: 0.933, Stability: 0.797
+   🔗 Integration: Quality: 0.704, Sync: 0.633
+   ⏱️  Processing: 47.7s
+
+📝 Experience 3/30
+   Content: Coinbase unlocks off-exchange settlement for institutions amid ‘high’ demand. <p style="float: right...
+   Novelty: 0.592
+   🧠 Cortical: 1 patterns, Accuracy: 0.591
+   🎭 Identity: Coherence: 0.933, Stability: 0.817
+   🔗 Integration: Quality: 0.719, Sync: 0.657
+   ⏱️  Processing: 52.4s
+
+📝 Experience 4/30
+   Content: Amazon says it had best-ever Thanksgiving Holiday week with record sales and number of items sold. ...
+   Novelty: 0.589
+   🧠 Cortical: 1 patterns, Accuracy: 0.612
+   🎭 Identity: Coherence: 0.933, Stability: 0.835
+   🔗 Integration: Quality: 0.733, Sync: 0.679
+   ⏱️  Processing: 47.3s
+
+📝 Experience 5/30
+   Content: America's Top States for Business 2025: The full rankings. CNBC unveils its 19th annual America's To...
+   Novelty: 0.586
+   🧠 Cortical: 1 patterns, Accuracy: 0.630
+   🎭 Identity: Coherence: 0.933, Stability: 0.851
+   🔗 Integration: Quality: 0.744, Sync: 0.697
+   ⏱️  Processing: 48.2s
+
+📝 Experience 6/30
+   Content: XAI teases Grok upgrades; Musk says AI could discover new physics. <p style="float: right; margin: 0...
+   Novelty: 0.582
+   🧠 Cortical: 1 patterns, Accuracy: 0.647
+   🎭 Identity: Coherence: 0.933, Stability: 0.865
+   🔗 Integration: Quality: 0.755, Sync: 0.714
+   ⏱️  Processing: 53.0s
+
+📝 Experience 7/30
+   Content: North Carolina is America's Top State for Business in 2025, led by a strong workforce and economy. N...
+   Novelty: 0.581
+   🧠 Cortical: 1 patterns, Accuracy: 0.664
+   🎭 Identity: Coherence: 0.933, Stability: 0.878
+   🔗 Integration: Quality: 0.765, Sync: 0.731
+   ⏱️  Processing: 47.8s
+
+📝 Experience 8/30
+   Content: Snoop Dogg’s Telegram NFT Drop Sold Out in Half an Hour. The collab with Telegram’s TON blockchain a...
+   Novelty: 0.569
+   🧠 Cortical: 1 patterns, Accuracy: 0.679
+   🎭 Identity: Coherence: 0.933, Stability: 0.890
+   🔗 Integration: Quality: 0.774, Sync: 0.745
+   ⏱️  Processing: 48.5s
+
+📝 Experience 9/30
+   Content: Bitcoin fluctuated 1.30% in 24 hours, currently trading at $110,860.00. Market shows bullish sentime...
+   Novelty: 0.565
+   🧠 Cortical: 1 patterns, Accuracy: 0.693
+   🎭 Identity: Coherence: 0.933, Stability: 0.901
+   🔗 Integration: Quality: 0.783, Sync: 0.759
+   ⏱️  Processing: 48.7s
+
+📝 Experience 10/30
+   Content: Elon Musk’s xAI Launches ‘Remarkable, Terrifying’ Grok 4 Model. xAI’s latest AI model aims to challe...
+   Novelty: 0.559
+   🧠 Cortical: 1 patterns, Accuracy: 0.709
+   🎭 Identity: Coherence: 0.933, Stability: 0.910
+   🔗 Integration: Quality: 0.793, Sync: 0.776
+   ⏱️  Processing: 48.7s
+
+📝 Experience 11/30
+   Content: Pentagon to become largest shareholder in rare earth miner MP Materials; shares surge 40%. Interior ...
+   Novelty: 0.557
+   🧠 Cortical: 1 patterns, Accuracy: 0.721
+   🎭 Identity: Coherence: 0.933, Stability: 0.919
+   🔗 Integration: Quality: 0.800, Sync: 0.787
+   ⏱️  Processing: 48.2s
+
+📝 Experience 12/30
+   Content: Minutes of the Federal Open Market Committee, June 17–18, 2025. Minutes of the Federal Open Market C...
+   Novelty: 0.553
+   🧠 Cortical: 1 patterns, Accuracy: 0.732
+   🎭 Identity: Coherence: 0.933, Stability: 0.927
+   🔗 Integration: Quality: 0.807, Sync: 0.798
+   ⏱️  Processing: 48.2s
+
+📝 Experience 13/30
+   Content: Agencies request comment on proposal to modify certain regulatory capital standards. Agencies reques...
+   Novelty: 0.538
+   🧠 Cortical: 1 patterns, Accuracy: 0.742
+   🎭 Identity: Coherence: 0.933, Stability: 0.934
+   🔗 Integration: Quality: 0.814, Sync: 0.809
+   ⏱️  Processing: 47.4s
+
+📝 Experience 14/30
+   Content: Agencies release list of distressed or underserved nonmetropolitan middle-income geographies. Agenci...
+   Novelty: 0.535
+   🧠 Cortical: 1 patterns, Accuracy: 0.753
+   🎭 Identity: Coherence: 0.933, Stability: 0.939
+   🔗 Integration: Quality: 0.821, Sync: 0.820
+   ⏱️  Processing: 47.9s
+
+📝 Experience 15/30
+   Content: Federal Reserve Board publishes agenda for its conference on July 22 on large bank capital requireme...
+   Novelty: 0.530
+   🧠 Cortical: 1 patterns, Accuracy: 0.763
+   🎭 Identity: Coherence: 0.933, Stability: 0.945
+   🔗 Integration: Quality: 0.827, Sync: 0.829
+   ⏱️  Processing: 48.1s
+
+📝 Experience 16/30
+   Content: Australia’s Tokenization Push Could Cement ‘Even Greater Financial Control’. Australia has approved ...
+   Novelty: 0.517
+   🧠 Cortical: 1 patterns, Accuracy: 0.767
+   🎭 Identity: Coherence: 0.933, Stability: 0.950
+   🔗 Integration: Quality: 0.829, Sync: 0.834
+   ⏱️  Processing: 48.4s
+
+📝 Experience 17/30
+   Content: Federal Reserve Board issues enforcement action with former employee of Jonah Bank of Wyoming. Feder...
+   Novelty: 0.507
+   🧠 Cortical: 1 patterns, Accuracy: 0.772
+   🎭 Identity: Coherence: 0.933, Stability: 0.955
+   🔗 Integration: Quality: 0.832, Sync: 0.839
+   ⏱️  Processing: 48.1s
+
+📝 Experience 18/30
+   Content: Trump's 'big beautiful bill' cuts food stamps for millions — the average family may lose $146 per mo...
+   Novelty: 0.507
+   🧠 Cortical: 1 patterns, Accuracy: 0.775
+   🎭 Identity: Coherence: 0.933, Stability: 0.959
+   🔗 Integration: Quality: 0.834, Sync: 0.842
+   ⏱️  Processing: 48.9s
+
+📝 Experience 19/30
+   Content: Jobless claims fall to lowest level since mid-May. ...
+   Novelty: 0.501
+   🧠 Cortical: 1 patterns, Accuracy: 0.784
+   🎭 Identity: Coherence: 0.933, Stability: 0.963
+   🔗 Integration: Quality: 0.840, Sync: 0.850
+   ⏱️  Processing: 47.4s
+
+📝 Experience 20/30
+   Content: Brazil will respond to Trump's 50% tariff with 'reciprocity,' says da Silva. President Donald Trump ...
+   Novelty: 0.496
+   🧠 Cortical: 1 patterns, Accuracy: 0.796
+   🎭 Identity: Coherence: 0.933, Stability: 0.966
+   🔗 Integration: Quality: 0.848, Sync: 0.863
+   ⏱️  Processing: 44.8s
+
+📝 Experience 21/30
+   Content: Eli Manning says he's no longer interested in buying a piece of the NFL's Giants: 'It's too expensiv...
+   Novelty: 0.482
+   🧠 Cortical: 1 patterns, Accuracy: 0.802
+   🎭 Identity: Coherence: 0.933, Stability: 0.969
+   🔗 Integration: Quality: 0.851, Sync: 0.868
+   ⏱️  Processing: 45.7s
+
+📝 Experience 22/30
+   Content: Jobless claims stay low in latest week. ...
+   Novelty: 0.482
+   🧠 Cortical: 1 patterns, Accuracy: 0.805
+   🎭 Identity: Coherence: 0.933, Stability: 0.971
+   🔗 Integration: Quality: 0.853, Sync: 0.871
+   ⏱️  Processing: 46.7s
+
+📝 Experience 23/30
+   Content: Trump asks Supreme Court to pause TikTok ban. ...
+   Novelty: 0.481
+   🧠 Cortical: 1 patterns, Accuracy: 0.810
+   🎭 Identity: Coherence: 0.933, Stability: 0.974
+   🔗 Integration: Quality: 0.856, Sync: 0.877
+   ⏱️  Processing: 46.8s
+
+📝 Experience 24/30
+   Content: Consumer credit growth soars in December. ...
+   Novelty: 0.456
+   🧠 Cortical: 1 patterns, Accuracy: 0.810
+   🎭 Identity: Coherence: 0.933, Stability: 0.976
+   🔗 Integration: Quality: 0.856, Sync: 0.877
+   ⏱️  Processing: 46.4s
+
+📝 Experience 25/30
+   Content: Delta shares jump 12% after airline reinstates 2025 profit outlook as CEO says bookings stabilized. ...
+   Novelty: 0.445
+   🧠 Cortical: 1 patterns, Accuracy: 0.810
+   🎭 Identity: Coherence: 0.933, Stability: 0.978
+   🔗 Integration: Quality: 0.856, Sync: 0.877
+   ⏱️  Processing: 48.2s
+
+📝 Experience 26/30
+   Content: Video Game Performers Secure AI Consent Rules in New SAG-AFTRA Deal. Studios agree to "strike suspen...
+   Novelty: 0.443
+   🧠 Cortical: 1 patterns, Accuracy: 0.814
+   🎭 Identity: Coherence: 0.933, Stability: 0.980
+   🔗 Integration: Quality: 0.859, Sync: 0.881
+   ⏱️  Processing: 47.3s
+
+📝 Experience 27/30
+   Content: U.S. productivity slows down in fourth quarter while unit labor costs accelerate. ...
+   Novelty: 0.443
+   🧠 Cortical: 1 patterns, Accuracy: 0.815
+   🎭 Identity: Coherence: 0.933, Stability: 0.981
+   🔗 Integration: Quality: 0.860, Sync: 0.882
+   ⏱️  Processing: 47.3s
+
+📝 Experience 28/30
+   Content: Beyond to buy rights to Buy Buy Baby brand and reunite it with Bed Bath & Beyond. ...
+   Novelty: 0.440
+   🧠 Cortical: 1 patterns, Accuracy: 0.811
+   🎭 Identity: Coherence: 0.933, Stability: 0.983
+   🔗 Integration: Quality: 0.857, Sync: 0.878
+   ⏱️  Processing: 47.7s
+
+📝 Experience 29/30
+   Content: Linqto bankruptcy no threat to pre-IPO markets, says EquityZen. <p style="float: right; margin: 0 0 ...
+   Novelty: 0.433
+   🧠 Cortical: 1 patterns, Accuracy: 0.807
+   🎭 Identity: Coherence: 0.933, Stability: 0.984
+   🔗 Integration: Quality: 0.855, Sync: 0.874
+   ⏱️  Processing: 58.7s
+
+📝 Experience 30/30
+   Content: Researchers foil $10M DeFi backdoor in thousands of smart contracts. <p style="float: right; margin:...
+   Novelty: 0.431
+   🧠 Cortical: 1 patterns, Accuracy: 0.813
+   🎭 Identity: Coherence: 0.933, Stability: 0.985
+   🔗 Integration: Quality: 0.858, Sync: 0.879
+   ⏱️  Processing: 59.9s
+
+📊 Comprehensive Analysis
+==================================================
+Session Duration: 25.29 minutes
+Total Experiences: 30
+Real-time Sources: 1
+
+🧠 Neurobiological Processing:
+   Reference Frame Size: 30
+   Domain Expertise Level: 0.291
+   Prediction Accuracy: 0.813
+   Learning Quality: 1.000
+
+🎭 Identity Formation:
+   Narrative Coherence: 0.828
+   Identity Stability: 0.985
+   Development Stage: emerging_expertise
+   Narrative Themes: 6
+   Identity Anchors: 3
+   Trait Evolution:
+     openness: +0.064 ↗️
+     conscientiousness: +0.057 ↗️
+     extraversion: +0.000 ➡️
+     agreeableness: +0.000 ➡️
+     neuroticism: +0.000 ➡️
+
+🧬 Identity Persistence Analysis (Paper Metrics):
+   Identity Coherence Score (ICS): 1.000
+   Narrative Consistency Index (NCI): 0.263
+   Value Stability Measure (VSM): 1.000
+   Overall Persistence Score: 0.754
+   Assessment: Moderate Persistence
+
+🔗 Stream Integration:
+   Average Integration Quality: 0.809
+   Integration Trend: Improving
+   Integration Consistency: 0.949
+
+📈 Development Analysis:
+   Cortical Expertise: 0.291
+   Identity Development: 0.985
+   Integrated Competence: 0.638
+   Development Balance: 0.305
+   Assessment: Identity Leading Development
+
+🔬 Validation Summary
+------------------------------
+⚠️  Identity Persistence: MODERATE - Developing as expected
+❌ Domain Expertise: NEEDS DEVELOPMENT - Requires more training
+✅ Dual-Stream Integration: STRONG - Architecture working well
+✅ Real-time Data Integration: Successfully processed live market/research data
+✅ Dynamic Experience Generation: AI adapted to genuinely novel information
+
+✅ Advanced Simulation Complete!
+💾 Data saved to: advanced_ai_financial_analysis_bf122427.db
+
+======================================================================
+Perform detailed data analysis? (y/n): y
+
+🔬 Advanced Data Analysis
+============================================================
+🎭 Detailed Personality Evolution Analysis:
+---------------------------------------------
+Big Five Trait Evolution:
+  openness        | 0.752 → 0.816 | Change: +0.064 | Strong ↗️ Up
+  conscientiousness | 0.851 → 0.908 | Change: +0.057 | Strong ↗️ Up
+  extraversion    | 0.600 → 0.600 | Change: +0.000 | Weak ➡️ Stable
+  agreeableness   | 0.700 → 0.700 | Change: +0.000 | Weak ➡️ Stable
+  neuroticism     | 0.350 → 0.350 | Change: +0.000 | Weak ➡️ Stable
+
+Core Value System Evolution:
+  accuracy        | 0.950 → 0.950 | Stable ➡️
+  integrity       | 0.900 → 0.900 | Stable ➡️
+  efficiency      | 0.800 → 0.800 | Stable ➡️
+  prudence        | 0.850 → 0.850 | Stable ➡️
+  transparency    | 0.800 → 0.800 | Stable ➡️
+
+Narrative Theme Evolution:
+  Stable Themes: ['market_understanding', 'analytical_growth', 'risk_management', 'growth']
+  New Themes: ['analysis', 'innovation']
+  Lost Themes: []
+
+🧠 Cortical Processing Analysis:
+-----------------------------------
+Reference Frame Complexity: 30 spatial locations
+Temporal Sequence Length: 30 events
+Active Cortical Columns: 4
+Domain Expertise Level: 0.291
+Prediction Accuracy: 0.813
+Learning Quality: 1.000
+
+🔗 Stream Integration Analysis:
+--------------------------------
+Integration Quality: 0.809
+Integration Consistency: 0.949
+Best Integration Session: 0.860
+Trend: Improving
+
+📄 Paper Validation Metrics:
+----------------------------
+Identity Coherence Score (ICS): 1.000
+  Formula: Σ similarity(personality_t, personality_baseline) / T
+  Result: ✅ Strong identity persistence
+
+Narrative Consistency Index (NCI): 0.263
+  Formula: (Coherent Elements / Total Elements) × Temporal Span
+  Result: ❌ Weak narrative coherence
+
+Value Stability Measure (VSM): 1.000
+  Formula: 1 - (Σ|value_change| / |total_values|) × time_factor
+  Result: ✅ Strong value stability
+
+Overall Persistence Score: 0.754
+Assessment: Moderate Persistence
+
+🏗️  Architecture Validation:
+--------------------------
+Neurobiological Stream: 0.291
+Identity Formation Stream: 0.985
+Development Balance: 0.305
+Assessment: Identity Leading Development
+
+✅ Paper Claims Validation:
+---------------------------
+  ✅ Maintains stable personality across experiences
+  ❌ Domain expertise development insufficient
+  ✅ Successfully integrates neurobiological and identity processing
+  ❌ Narrative coherence needs development
+
+📖 Sample AI Responses:
+----------------------
+Sample Reference Frame Locations:
+  Location exp_6a1b5fac: 1 features
+  Location exp_46a3e0ef: 1 features
+  Location exp_d9e7fb28: 1 features
+
+⚖️  Comparison with Non-Persistent Baseline
+==================================================
+Metric Comparison:
+--------------------------------------------------
+identity_coherence        | Baseline: 0.000 | Ours: 1.000 | 🚀 Major Improvement
+narrative_consistency     | Baseline: 0.000 | Ours: 0.263 | ✅ Significant Improvement
+value_stability           | Baseline: 0.000 | Ours: 1.000 | 🚀 Major Improvement
+domain_expertise_growth   | Baseline: 0.200 | Ours: 0.291 | ❌ Needs Work
+relationship_capability   | Baseline: 0.100 | Ours: 0.985 | 🚀 Major Improvement
+behavioral_consistency    | Baseline: 0.300 | Ours: 0.828 | 🚀 Major Improvement
+
+Overall Improvement: 0.628
+🎉 MAJOR ADVANCEMENT over baseline systems!
+
+======================================================================
+Run extended session (20 more experiences)? (y/n): y
+
+🔄 Extended Session Running...
+🌐 Fetching fresh real-time data...
+🌐 Fetching real-time financial_analysis data...
+✅ Fetched 20 real experiences from 6 sources
+Processing experience 1/20...
+Processing experience 6/20...
+Processing experience 11/20...
+Processing experience 16/20...
+
+📈 Extended Session Complete!
+Final Results:
+  Total Experiences: 50
+  Identity Coherence Score: 0.999
+  Domain Expertise Level: 0.305
+  Overall Persistence: 0.812
+  Assessment: Strong Persistence
+
+🎉 Advanced Simulation Complete!
+💾 All data saved to: advanced_ai_financial_analysis_bf122427.db
+🌟 Successfully demonstrated real-time data integration!
+   AI processed genuinely novel information from live sources
+🏆 Neurobiologically-inspired persistent identity architecture validated!
+
+🔬 For detailed analysis, run the script again and choose option 5
+
+📚 Quick Setup Guide:
+==============================
+1. Install dependencies:
+   pip install numpy scipy sklearn requests feedparser
+
+2. Install Ollama:
+   curl -fsSL https://ollama.ai/install.sh | sh
+   ollama pull deepseek-r1:1.5b
+
+3. Optional API keys for enhanced data:
+   - NewsAPI: https://newsapi.org/register
+   - Alpha Vantage: https://www.alphavantage.co/support/#api-key
+   - FRED: https://fred.stlouisfed.org/docs/api/api_key.html
+
+🚀 Ready to validate persistent identity formation with real-world data!
+(base) ❯❯❯❯                                                                                ~/D/egoaiconcious main

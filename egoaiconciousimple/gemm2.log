@@ -1,0 +1,152 @@
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/egoaiconcious/gem2.py           ~/D/egoaiconcious main
+🎯 gem2.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 1
+🚀 Complete gem2.py Enhanced Memory System Demonstration
+================================================================================
+🧠 Features: Token Management + Graph Boundaries + Hierarchical Memory
+🔄 + Compression + Multi-Strategy Retrieval + Cross-Modal + Real-time Data
+
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for financial_analysis
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+INFO:__main__:Real-time data integrator initialized
+🌐 Starting Real-time Data Integration Demo
+--------------------------------------------------
+🌐 Starting continuous integration for domains: ['financial_analysis', 'research']
+✅ Initialized 2 data streams
+
+📊 Data Integration Cycle 1
+------------------------------
+Processing financial_analysis domain...
+   Raw data fetched: 9
+   Quality filtered: 9
+   Deduplicated: 9
+   Novel content: 9
+   Experiences created: 9
+   Cycle time: 5.24s
+
+Processing research domain...
+   Raw data fetched: 1
+   Quality filtered: 1
+   Deduplicated: 1
+   Novel content: 1
+   Experiences created: 1
+   Cycle time: 5.18s
+
+📊 Data Integration Cycle 2
+------------------------------
+Processing financial_analysis domain...
+   Raw data fetched: 9
+   Quality filtered: 9
+   Deduplicated: 9
+   Novel content: 9
+   Experiences created: 9
+   Cycle time: 6.12s
+
+Processing research domain...
+   Raw data fetched: 1
+   Quality filtered: 1
+   Deduplicated: 0
+   Novel content: 0
+   Experiences created: 0
+   Cycle time: 3.86s
+
+📊 Data Integration Cycle 3
+------------------------------
+Processing financial_analysis domain...
+INFO:__main__:Cleaned up 0 weak semantic concepts
+   Raw data fetched: 9
+   Quality filtered: 9
+   Deduplicated: 9
+   Novel content: 9
+   Experiences created: 9
+   Cycle time: 9.16s
+
+Processing research domain...
+   Raw data fetched: 1
+   Quality filtered: 1
+   Deduplicated: 0
+   Novel content: 0
+   Experiences created: 0
+   Cycle time: 3.96s
+
+🔍 Comprehensive Memory Retrieval Test
+----------------------------------------
+Retrieved 10 memories:
+   Hierarchical: 5
+   Cross-modal: 5
+   Advanced: 0
+   Retrieval time: 0.011s
+
+Top Retrieved Memories:
+   1. Score: 1.303 | Sources: cross_modal
+   2. Score: 1.271 | Sources: cross_modal
+   3. Score: 1.223 | Sources: cross_modal
+   4. Score: 1.222 | Sources: cross_modal
+   5. Score: 1.221 | Sources: cross_modal
+
+📈 Complete System Statistics
+----------------------------------------
+Enhanced Memory System:
+   Experiences processed: 0
+   Average processing time: 0.000s
+   Processing efficiency: 0.00 exp/sec
+
+Memory Components:
+   Working memory: 7/7
+   Short-term memory: 0/50
+   Long-term memory: 0
+   Semantic concepts: 0
+
+Token Management:
+   Context utilization: 2.62%
+   Evicted tokens: 0
+   Unique evicted: 0
+
+Cross-Modal System:
+   text: 28 experiences
+   visual: 28 experiences
+   audio: 28 experiences
+   temporal: 28 experiences
+   spatial: 28 experiences
+   emotional: 28 experiences
+
+Real-time Data Integration:
+   Total fetched: 30
+   Total processed: 28
+   Quality filtered: 0
+   Duplicates removed: 2
+   Active streams: 2
+
+📊 Performance Analysis
+------------------------------
+Overall System Performance:
+   Processing efficiency: 0.00 exp/sec
+   Token utilization: 2.6%
+   Memory utilization: 50.0%
+   ❌ LOW PERFORMANCE - Needs optimization
+
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session 30efe554 processed 0 experiences
+✅ Complete gem2.py Demonstration Finished!
+
+🏆 Successfully Demonstrated:
+   ✓ Token-level context management with intelligent eviction
+   ✓ Graph-theoretic boundary refinement with multiple algorithms
+   ✓ Hierarchical memory system with automatic consolidation
+   ✓ Memory compression with pattern detection and abstractions
+   ✓ Multi-strategy retrieval with ensemble methods
+   ✓ Cross-modal memory integration across 6 modalities
+   ✓ Real-time data integration with quality assessment
+   ✓ Content deduplication and novelty detection
+   ✓ Comprehensive system integration and coordination
+
+🧠 This represents the most advanced memory management system
+   for persistent identity AI, combining cutting-edge techniques
+   from neuroscience, cognitive science, and computer science.

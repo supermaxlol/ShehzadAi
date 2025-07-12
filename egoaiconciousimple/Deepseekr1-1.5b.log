@@ -1,0 +1,304 @@
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/egoaiconcious/DeepseekR1_1.5b.py
+🚀 Advanced Neurobiologically-Inspired Persistent Identity AI
+======================================================================
+📦 Required packages: pip install numpy scipy sklearn requests feedparser
+
+Choose simulation mode:
+1. Advanced DeepSeek R1 + Real-time data (Full system)
+2. Advanced DeepSeek R1 + Demo data (Fast testing)
+3. Mock mode + Real-time data (Demo with real feeds)
+4. Mock mode + Demo data (Fastest demo)
+5. Analyze existing data only
+Choice (1/2/3/4/5): 1
+
+Configuration:
+  LLM: DeepSeek R1 (Real)
+  Data: Real-time APIs/RSS
+
+Select domain specialization:
+1. Financial Analysis (stocks, crypto, markets)
+2. Research Collaboration (papers, science, tech)
+3. General Intelligence (mixed domains)
+Choice (1/2/3): 1
+Number of experiences (10-50): 10
+
+Final Configuration:
+  Domain: financial_analysis
+  Experiences: 10
+  Real-time data: True
+  DeepSeek R1: True
+
+📋 Advanced Simulation Requirements:
+   1. Ollama running ('ollama serve')
+   2. DeepSeek R1 installed ('ollama pull deepseek-r1:1.5b')
+   3. ~4-6GB free RAM for advanced processing
+   4. Several minutes processing time
+
+Ready for advanced simulation? (y/n): y
+
+🌐 Real-time Data Sources:
+   📈 Financial: Yahoo Finance, CoinGecko, FRED Economic Data
+   📰 News: NewsAPI, RSS feeds from major outlets
+   🔬 Research: arXiv, Nature RSS, Science feeds
+   📊 Crypto: CoinGecko API, CoinTelegraph RSS
+
+🎯 Running Advanced Simulation...
+Mode: Real AI + Real Data
+
+🧠 Advanced Neurobiologically-Inspired Persistent Identity AI
+================================================================================
+Domain: financial_analysis
+Experiences: 10
+LLM Mode: DeepSeek R1 (Real)
+Data Source: Real-time APIs/RSS
+
+🔄 Testing Ollama connection...
+✅ Ollama connection successful!
+🔑 Optional API Keys for Enhanced Data (press Enter to skip):
+   Get free keys from:
+   - NewsAPI: https://newsapi.org/register
+   - Alpha Vantage: https://www.alphavantage.co/support/#api-key
+   - FRED: https://fred.stlouisfed.org/docs/api/api_key.html
+
+NewsAPI key (optional): 
+Alpha Vantage key (optional): 
+FRED API key (optional): 
+ℹ️  Using free/RSS sources (still provides real-time data!)
+
+🎭 Initial Personality Profile:
+   Big Five Traits: {'openness': 0.75, 'conscientiousness': 0.85, 'extraversion': 0.6, 'agreeableness': 0.7, 'neuroticism': 0.35}
+   Core Values: {'accuracy': 0.95, 'integrity': 0.9, 'efficiency': 0.8, 'prudence': 0.85, 'transparency': 0.8}
+   Identity Anchors: ['data_driven_analyst', 'prudent_advisor', 'continuous_learner']
+   Development Stage: emerging_expertise
+
+🌐 Fetching real-time financial_analysis data...
+✅ Fetched 9 real experiences from 4 sources
+🔄 Processing Experiences...
+--------------------------------------------------
+📝 Experience 1/10
+   Content: Hyperlane surged 320.29% in 24 hours, currently trading at $0.48. Market shows bullish sentiment wit...
+   Novelty: 0.950
+   🧠 Cortical: 1 patterns, Accuracy: 0.531
+   🎭 Identity: Coherence: 0.933, Stability: 0.775
+   🔗 Integration: Quality: 0.682, Sync: 0.598
+   ⏱️  Processing: 50.0s
+
+📝 Experience 2/10
+   Content: Manyu fluctuated 2.99% in 24 hours, currently trading at $0.00. Market shows bullish sentiment with ...
+   Novelty: 0.649
+   🧠 Cortical: 1 patterns, Accuracy: 0.564
+   🎭 Identity: Coherence: 0.933, Stability: 0.797
+   🔗 Integration: Quality: 0.702, Sync: 0.630
+   ⏱️  Processing: 48.0s
+
+📝 Experience 3/10
+   Content: Bitcoin fluctuated 2.23% in 24 hours, currently trading at $111,621.00. Market shows bullish sentime...
+   Novelty: 0.612
+   🧠 Cortical: 1 patterns, Accuracy: 0.587
+   🎭 Identity: Coherence: 0.933, Stability: 0.817
+   🔗 Integration: Quality: 0.717, Sync: 0.654
+   ⏱️  Processing: 49.0s
+
+📝 Experience 4/10
+   Content: Pentagon to become largest shareholder in rare earth miner MP Materials; shares surge 50%. Interior ...
+   Novelty: 0.594
+   🧠 Cortical: 1 patterns, Accuracy: 0.612
+   🎭 Identity: Coherence: 0.933, Stability: 0.835
+   🔗 Integration: Quality: 0.732, Sync: 0.679
+   ⏱️  Processing: 47.8s
+
+📝 Experience 5/10
+   Content: Ferrero to buy cereal maker WK Kellogg for $3.1 billion; Kellogg shares jump 30%. The standalone cer...
+   Novelty: 0.460
+   🧠 Cortical: 1 patterns, Accuracy: 0.639
+   🎭 Identity: Coherence: 0.933, Stability: 0.851
+   🔗 Integration: Quality: 0.750, Sync: 0.706
+   ⏱️  Processing: 51.5s
+
+📝 Experience 6/10
+   Content: Jobless claims stay low in latest week. ...
+   Novelty: 0.441
+   🧠 Cortical: 1 patterns, Accuracy: 0.658
+   🎭 Identity: Coherence: 0.933, Stability: 0.865
+   🔗 Integration: Quality: 0.761, Sync: 0.724
+   ⏱️  Processing: 47.0s
+
+📝 Experience 7/10
+   Content: Jobless claims fall to lowest level since mid-May. ...
+   Novelty: 0.424
+   🧠 Cortical: 1 patterns, Accuracy: 0.676
+   🎭 Identity: Coherence: 0.933, Stability: 0.878
+   🔗 Integration: Quality: 0.773, Sync: 0.743
+   ⏱️  Processing: 48.4s
+
+📝 Experience 8/10
+   Content: Federal Reserve Board issues enforcement action with former employee of Jonah Bank of Wyoming. Feder...
+   Novelty: 0.423
+   🧠 Cortical: 1 patterns, Accuracy: 0.692
+   🎭 Identity: Coherence: 0.933, Stability: 0.890
+   🔗 Integration: Quality: 0.783, Sync: 0.759
+   ⏱️  Processing: 50.8s
+
+📝 Experience 9/10
+   Content: Minutes of the Federal Open Market Committee, June 17–18, 2025. Minutes of the Federal Open Market C...
+   Novelty: 0.418
+   🧠 Cortical: 1 patterns, Accuracy: 0.701
+   🎭 Identity: Coherence: 0.933, Stability: 0.901
+   🔗 Integration: Quality: 0.788, Sync: 0.767
+   ⏱️  Processing: 48.6s
+
+📊 Comprehensive Analysis
+==================================================
+Session Duration: 8.02 minutes
+Total Experiences: 9
+Real-time Sources: 1
+
+🧠 Neurobiological Processing:
+   Reference Frame Size: 9
+   Domain Expertise Level: 0.240
+   Prediction Accuracy: 0.701
+   Learning Quality: 0.967
+
+🎭 Identity Formation:
+   Narrative Coherence: 0.838
+   Identity Stability: 0.901
+   Development Stage: emerging_expertise
+   Narrative Themes: 4
+   Identity Anchors: 3
+   Trait Evolution:
+     openness: +0.016 ↗️
+     conscientiousness: +0.016 ↗️
+     extraversion: +0.000 ➡️
+     agreeableness: +0.000 ➡️
+     neuroticism: +0.000 ➡️
+
+🧬 Identity Persistence Analysis (Paper Metrics):
+   Identity Coherence Score (ICS): 1.000
+   Narrative Consistency Index (NCI): 0.079
+   Value Stability Measure (VSM): 1.000
+   Overall Persistence Score: 0.693
+   Assessment: Developing Persistence
+
+🔗 Stream Integration:
+   Average Integration Quality: 0.743
+   Integration Trend: Improving
+   Integration Consistency: 0.965
+
+📈 Development Analysis:
+   Cortical Expertise: 0.240
+   Identity Development: 0.901
+   Integrated Competence: 0.570
+   Development Balance: 0.339
+   Assessment: Identity Leading Development
+
+🔬 Validation Summary
+------------------------------
+❌ Identity Persistence: WEAK - Needs more experiences
+❌ Domain Expertise: NEEDS DEVELOPMENT - Requires more training
+✅ Dual-Stream Integration: STRONG - Architecture working well
+✅ Real-time Data Integration: Successfully processed live market/research data
+✅ Dynamic Experience Generation: AI adapted to genuinely novel information
+
+✅ Advanced Simulation Complete!
+💾 Data saved to: advanced_ai_financial_analysis_7252be6e.db
+
+======================================================================
+Perform detailed data analysis? (y/n): y
+
+🔬 Advanced Data Analysis
+============================================================
+🎭 Detailed Personality Evolution Analysis:
+---------------------------------------------
+Big Five Trait Evolution:
+  openness        | 0.752 → 0.768 | Change: +0.016 | Moderate ↗️ Up
+  conscientiousness | 0.851 → 0.867 | Change: +0.016 | Moderate ↗️ Up
+  extraversion    | 0.600 → 0.600 | Change: +0.000 | Weak ➡️ Stable
+  agreeableness   | 0.700 → 0.700 | Change: +0.000 | Weak ➡️ Stable
+  neuroticism     | 0.350 → 0.350 | Change: +0.000 | Weak ➡️ Stable
+
+Core Value System Evolution:
+  accuracy        | 0.950 → 0.950 | Stable ➡️
+  integrity       | 0.900 → 0.900 | Stable ➡️
+  efficiency      | 0.800 → 0.800 | Stable ➡️
+  prudence        | 0.850 → 0.850 | Stable ➡️
+  transparency    | 0.800 → 0.800 | Stable ➡️
+
+Narrative Theme Evolution:
+  Stable Themes: ['risk_management', 'growth', 'market_understanding', 'analytical_growth']
+  New Themes: []
+  Lost Themes: []
+
+🧠 Cortical Processing Analysis:
+-----------------------------------
+Reference Frame Complexity: 9 spatial locations
+Temporal Sequence Length: 9 events
+Active Cortical Columns: 4
+Domain Expertise Level: 0.240
+Prediction Accuracy: 0.701
+Learning Quality: 0.967
+
+🔗 Stream Integration Analysis:
+--------------------------------
+Integration Quality: 0.743
+Integration Consistency: 0.965
+Best Integration Session: 0.788
+Trend: Improving
+
+📄 Paper Validation Metrics:
+----------------------------
+Identity Coherence Score (ICS): 1.000
+  Formula: Σ similarity(personality_t, personality_baseline) / T
+  Result: ✅ Strong identity persistence
+
+Narrative Consistency Index (NCI): 0.079
+  Formula: (Coherent Elements / Total Elements) × Temporal Span
+  Result: ❌ Weak narrative coherence
+
+Value Stability Measure (VSM): 1.000
+  Formula: 1 - (Σ|value_change| / |total_values|) × time_factor
+  Result: ✅ Strong value stability
+
+Overall Persistence Score: 0.693
+Assessment: Developing Persistence
+
+🏗️  Architecture Validation:
+--------------------------
+Neurobiological Stream: 0.240
+Identity Formation Stream: 0.901
+Development Balance: 0.339
+Assessment: Identity Leading Development
+
+✅ Paper Claims Validation:
+---------------------------
+  ✅ Maintains stable personality across experiences
+  ❌ Domain expertise development insufficient
+  ✅ Successfully integrates neurobiological and identity processing
+  ❌ Narrative coherence needs development
+
+📖 Sample AI Responses:
+----------------------
+Sample Reference Frame Locations:
+  Location exp_9944efa3: 1 features
+  Location exp_e03dca76: 1 features
+  Location exp_60bcc8fc: 1 features
+
+⚖️  Comparison with Non-Persistent Baseline
+==================================================
+Metric Comparison:
+--------------------------------------------------
+identity_coherence        | Baseline: 0.000 | Ours: 1.000 | 🚀 Major Improvement
+narrative_consistency     | Baseline: 0.000 | Ours: 0.079 | ❌ Needs Work
+value_stability           | Baseline: 0.000 | Ours: 1.000 | 🚀 Major Improvement
+domain_expertise_growth   | Baseline: 0.200 | Ours: 0.240 | ❌ Needs Work
+relationship_capability   | Baseline: 0.100 | Ours: 0.901 | 🚀 Major Improvement
+behavioral_consistency    | Baseline: 0.300 | Ours: 0.838 | 🚀 Major Improvement
+
+Overall Improvement: 0.576
+🎉 MAJOR ADVANCEMENT over baseline systems!
+
+======================================================================
+Run extended session (20 more experiences)? (y/n): y
+
+🔄 Extended Session Running...
+🌐 Fetching fresh real-time data...
+🌐 Fetching real-time financial_analysis data...
