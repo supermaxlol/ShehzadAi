@@ -563,7 +563,7 @@ The implications extend beyond technical achievements to fundamental questions a
 
 ---
 
-*Corresponding Author: [Author Information]*  
-*Institution: [Institution Information]*  
-*Email: [Contact Information]*  
-*Date: [Submission Date]*
+*Corresponding Author: Shehzad Ahmed
+*Institution: Independent University Bangladesh 
+*Email: shehzad0002@gmail.com 
+*Date: jul 12 2025
