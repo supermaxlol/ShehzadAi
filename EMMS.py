@@ -15537,9 +15537,9 @@ def run_enhanced_memory_demo():
         processing_results.append(result)
         
         print(f"   ⏱️  Processing time: {result['total_processing_time']:.3f}s")
-        print(f"   🧮 Token processing: {result['token_processing']['context_tokens']} tokens")
+        print(f"   🧮 Token processing: {result['token_management']['context_tokens']} tokens")
         print(f"   🏛️  Hierarchical storage: {result['hierarchical_storage']['storage_level']}")
-        print(f"   🌐 Cross-modal: {result['cross_modal_storage']['modalities_stored']}")
+        print(f"   🌐 Cross-modal: {result.get('cross_modal_processing', {}).get('associations_created', 'N/A')}")
         print()
     
     # Test comprehensive retrieval

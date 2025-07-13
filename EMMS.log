@@ -1,5 +1,5 @@
-(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/egoaiconcious/EMMS.py           ~/D/egoaiconcious main
-🎯 EMMS.py - Enhanced Memory Management System
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 gem2.py - Enhanced Memory Management System
 Choose demonstration mode:
 1. Complete system demonstration (recommended)
 2. Memory components only
@@ -29,7 +29,7 @@ Processing financial_analysis domain...
    Deduplicated: 9
    Novel content: 9
    Experiences created: 9
-   Cycle time: 5.24s
+   Cycle time: 5.59s
 
 Processing research domain...
    Raw data fetched: 1
@@ -37,7 +37,7 @@ Processing research domain...
    Deduplicated: 1
    Novel content: 1
    Experiences created: 1
-   Cycle time: 5.18s
+   Cycle time: 4.11s
 
 📊 Data Integration Cycle 2
 ------------------------------
@@ -47,7 +47,7 @@ Processing financial_analysis domain...
    Deduplicated: 9
    Novel content: 9
    Experiences created: 9
-   Cycle time: 6.12s
+   Cycle time: 4.78s
 
 Processing research domain...
    Raw data fetched: 1
@@ -55,18 +55,17 @@ Processing research domain...
    Deduplicated: 0
    Novel content: 0
    Experiences created: 0
-   Cycle time: 3.86s
+   Cycle time: 4.03s
 
 📊 Data Integration Cycle 3
 ------------------------------
 Processing financial_analysis domain...
-INFO:__main__:Cleaned up 0 weak semantic concepts
    Raw data fetched: 9
    Quality filtered: 9
    Deduplicated: 9
    Novel content: 9
    Experiences created: 9
-   Cycle time: 9.16s
+   Cycle time: 4.80s
 
 Processing research domain...
    Raw data fetched: 1
@@ -74,8 +73,9 @@ Processing research domain...
    Deduplicated: 0
    Novel content: 0
    Experiences created: 0
-   Cycle time: 3.96s
+   Cycle time: 3.98s
 
+INFO:__main__:Cleaned up 0 weak semantic concepts
 🔍 Comprehensive Memory Retrieval Test
 ----------------------------------------
 Retrieved 10 memories:
@@ -85,9 +85,9 @@ Retrieved 10 memories:
    Retrieval time: 0.011s
 
 Top Retrieved Memories:
-   1. Score: 1.303 | Sources: cross_modal
-   2. Score: 1.271 | Sources: cross_modal
-   3. Score: 1.223 | Sources: cross_modal
+   1. Score: 1.304 | Sources: cross_modal
+   2. Score: 1.264 | Sources: cross_modal
+   3. Score: 1.229 | Sources: cross_modal
    4. Score: 1.222 | Sources: cross_modal
    5. Score: 1.221 | Sources: cross_modal
 
@@ -133,7 +133,7 @@ Overall System Performance:
    ❌ LOW PERFORMANCE - Needs optimization
 
 INFO:__main__:Enhanced Integrated Memory System shutdown complete
-INFO:__main__:Session 30efe554 processed 0 experiences
+INFO:__main__:Session a4ebff8e processed 0 experiences
 ✅ Complete gem2.py Demonstration Finished!
 
 🏆 Successfully Demonstrated:
@@ -150,3 +150,159 @@ INFO:__main__:Session 30efe554 processed 0 experiences
 🧠 This represents the most advanced memory management system
    for persistent identity AI, combining cutting-edge techniques
    from neuroscience, cognitive science, and computer science.
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 gem2.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 2
+🧠 Enhanced Memory Management System - Comprehensive Demo
+================================================================================
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for financial_analysis
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+Processing 8 test experiences...
+
+📝 Processing Experience 1: Bitcoin price surges 15% following institutional a...
+   ⏱️  Processing time: 0.005s
+   🧮 Token processing: 8 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 2: Federal Reserve announces interest rate decision a...
+   ⏱️  Processing time: 0.003s
+   🧮 Token processing: 17 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 3: Machine learning breakthrough in natural language ...
+   ⏱️  Processing time: 0.003s
+   🧮 Token processing: 25 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 4: Tesla reports record quarterly earnings with stron...
+   ⏱️  Processing time: 0.004s
+   🧮 Token processing: 36 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 5: New AI model demonstrates superior performance in ...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 46 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 6: Cryptocurrency regulations proposed by European Un...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 55 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 7: Quantum computing research achieves milestone in e...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 63 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 8: Stock market shows resilience despite geopolitical...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 70 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+🔍 Testing Comprehensive Retrieval
+----------------------------------------
+Retrieved 6 relevant memories:
+   Hierarchical: 3
+   Cross-modal: 3
+   Advanced: 0
+   Retrieval time: 0.003s
+
+Top Retrieved Memories:
+   1. Score: 1.380 | Sources: cross_modal
+   2. Score: 1.246 | Sources: cross_modal
+   3. Score: 1.234 | Sources: cross_modal
+
+📊 Comprehensive System Statistics
+----------------------------------------
+Session ID: 875f6cab
+Experiences processed: 0
+Average processing time: 0.000s
+Processing efficiency: 0.00 exp/sec
+
+Component Statistics:
+   Token Management:
+     Context utilization: 0.22%
+     Evicted tokens: 0
+   Hierarchical Memory:
+     Working memory: 7/7
+     Short-term memory: 0/50
+     Long-term memory: 0
+     Semantic concepts: 0
+   Cross-Modal System:
+     text: 8 experiences
+     visual: 8 experiences
+     audio: 8 experiences
+     temporal: 8 experiences
+     spatial: 8 experiences
+     emotional: 8 experiences
+
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session 875f6cab processed 0 experiences
+✅ Enhanced Memory System Demo Complete!
+
+Key Features Demonstrated:
+   ✓ Token-level context management with intelligent eviction
+   ✓ Graph-theoretic boundary refinement
+   ✓ Hierarchical memory with consolidation
+   ✓ Memory compression with pattern detection
+   ✓ Multi-strategy advanced retrieval
+   ✓ Cross-modal memory integration
+   ✓ Comprehensive ensemble retrieval
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py 
+🎯 gem2.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 3
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for general
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+INFO:__main__:Real-time data integrator initialized
+🌐 Real-time Data Integration Demo
+Processed 13 experiences in 5.88s
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session a2074441 processed 0 experiences
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 gem2.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 4
+🔬 Performance Testing Mode
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for financial_analysis
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+Processed 10/50 experiences...
+Processed 20/50 experiences...
+Processed 30/50 experiences...
+Processed 40/50 experiences...
+Processed 50/50 experiences...
+
+📊 Performance Results:
+   Total time: 0.08s
+   Experiences/second: 647.11
+   Average processing time: 0.000s
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session b10e7880 processed 0 experiences
+(base) ❯❯❯❯                                                                 ~/D/ShehzadAi main
