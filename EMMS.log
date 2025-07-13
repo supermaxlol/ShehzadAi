@@ -6,7 +6,7 @@ Choose demonstration mode:
 3. Real-time integration only
 4. Performance testing
 Choice (1-4): 1
-🚀 Complete gem2.py Enhanced Memory System Demonstration
+🚀 Complete EMMS.py Enhanced Memory System Demonstration
 ================================================================================
 🧠 Features: Token Management + Graph Boundaries + Hierarchical Memory
 🔄 + Compression + Multi-Strategy Retrieval + Cross-Modal + Real-time Data
@@ -134,7 +134,7 @@ Overall System Performance:
 
 INFO:__main__:Enhanced Integrated Memory System shutdown complete
 INFO:__main__:Session a4ebff8e processed 0 experiences
-✅ Complete gem2.py Demonstration Finished!
+✅ Complete EMMS.py Demonstration Finished!
 
 🏆 Successfully Demonstrated:
    ✓ Token-level context management with intelligent eviction
@@ -151,7 +151,7 @@ INFO:__main__:Session a4ebff8e processed 0 experiences
    for persistent identity AI, combining cutting-edge techniques
    from neuroscience, cognitive science, and computer science.
 (base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
-🎯 gem2.py - Enhanced Memory Management System
+🎯 EMMS.py - Enhanced Memory Management System
 Choose demonstration mode:
 1. Complete system demonstration (recommended)
 2. Memory components only
@@ -264,7 +264,7 @@ Key Features Demonstrated:
    ✓ Cross-modal memory integration
    ✓ Comprehensive ensemble retrieval
 (base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py 
-🎯 gem2.py - Enhanced Memory Management System
+🎯 EMMS.py - Enhanced Memory Management System
 Choose demonstration mode:
 1. Complete system demonstration (recommended)
 2. Memory components only
@@ -281,7 +281,7 @@ Processed 13 experiences in 5.88s
 INFO:__main__:Enhanced Integrated Memory System shutdown complete
 INFO:__main__:Session a2074441 processed 0 experiences
 (base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
-🎯 gem2.py - Enhanced Memory Management System
+🎯 EMMS.py - Enhanced Memory Management System
 Choose demonstration mode:
 1. Complete system demonstration (recommended)
 2. Memory components only

@@ -15304,9 +15304,9 @@ class NoveltyDetector:
 # ============================================================================
 
 def run_complete_gem2_demonstration():
-    """Run the complete gem2.py demonstration with all components"""
+    """Run the complete EMMS.py demonstration with all components"""
     
-    print("🚀 Complete gem2.py Enhanced Memory System Demonstration")
+    print("🚀 Complete EMMS.py Enhanced Memory System Demonstration")
     print("=" * 80)
     print("🧠 Features: Token Management + Graph Boundaries + Hierarchical Memory")
     print("🔄 + Compression + Multi-Strategy Retrieval + Cross-Modal + Real-time Data")
@@ -15459,7 +15459,7 @@ def run_complete_gem2_demonstration():
     # Cleanup
     memory_system.shutdown()
     
-    print("✅ Complete gem2.py Demonstration Finished!")
+    print("✅ Complete EMMS.py Demonstration Finished!")
     print("\n🏆 Successfully Demonstrated:")
     print("   ✓ Token-level context management with intelligent eviction")
     print("   ✓ Graph-theoretic boundary refinement with multiple algorithms")
@@ -15615,7 +15615,7 @@ if __name__ == "__main__":
     # Set up logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
-    print("🎯 gem2.py - Enhanced Memory Management System")
+    print("🎯 EMMS.py - Enhanced Memory Management System")
     print("Choose demonstration mode:")
     print("1. Complete system demonstration (recommended)")
     print("2. Memory components only")
