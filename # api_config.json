@@ -1,0 +1,39 @@
+{
+    "binance": {
+        "api_key": "WbWY9Z6iQijb2knbi0lse1fPw5O5m94BxMd83C0z24EvU3Nh0LBg4pVCbWovvnqW",
+        "api_secret": "X8PYYps4iRTEz8eVkPEFa7OqHfmQri3JoZX606Qy973HdOWOXk7mzBTnZviT37VN"
+    },
+    "ethereum": {
+        "rpc_url": "https://eth-mainnet.g.alchemy.com/v2/iMMsD3cGTki2F4HKizkEMLwmyZDt1fDI",
+        "fallback_url": "https://mainnet.infura.io/v3/f522dd369adb453fbf6e8356acac6142"
+    },
+    "coingecko": {
+        "api_key": "CG-wQuXibxjo6BZS6e2MMQB3y1S"
+    },
+    "news_apis": {
+        "newsapi_org": "ed839fb9cb8947eba79089b1c87d5331",
+        "alpha_vantage": "7KPDM0W8TFXGWMR0",
+        "marketaux": "k9TVRlzGPmkPtieYZQ3pQFXR1ae489xY5Vn80UDi",
+        "fmp": "1oqrdXBUSMVItWaoIj2qjZ111BsEMcTU",
+        "finnhub": "d1puftpr01qku4u4p6u0d1puftpr01qku4u4p6ug"
+    },
+    "blockchain_apis": {
+        "etherscan": "REZAZVUXMZ258XECZ54HEMA49MKTA45YXY",
+        "tenderly": "03bv3SuolJqItULkxlcJiwLXQYCOmHCh",
+        "oneinch": "pYigLGiEHsDB1CfZuDLruGa3qQsySPEy",
+        "thegraph": "83984585a228ad2b12fc7325458dd5e7",
+        "uniswap": "0xDcDd5634b0a1F1092Dd63809b6B66Bca5D847797"
+    },
+    "tenderly_config": {
+        "project": "project",
+        "user": "Shehzad"
+    },
+    "settings": {
+        "cache_ttl_seconds": 300,
+        "max_queue_size": 10000,
+        "processing_batch_size": 10,
+        "default_rate_limit": 60,
+        "quality_threshold": 0.3,
+        "novelty_threshold": 0.1
+    }
+}

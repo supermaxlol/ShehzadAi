@@ -1,0 +1,417 @@
+/Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py        
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 EMMS.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 1
+🚀 Complete EMMS.py Enhanced Memory System Demonstration
+================================================================================
+🧠 Features: Token Management + Graph Boundaries + Hierarchical Memory
+🔄 + Compression + Multi-Strategy Retrieval + Cross-Modal + Real-time Data
+
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for financial_analysis
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+INFO:__main__:✅ Binance client initialized
+INFO:__main__:✅ Web3 client initialized
+INFO:__main__:✅ API clients initialized successfully
+INFO:__main__:🚀 Bulletproof RealTimeDataIntegrator initialized successfully
+🌐 Starting Real-time Data Integration Demo
+--------------------------------------------------
+INFO:__main__:🚀 Starting continuous integration for domains: ['financial_analysis', 'research']
+INFO:__main__:🔄 Starting continuous fetch worker for financial_analysis
+INFO:__main__:🔄 Starting fetch cycle for domain: financial_analysis, count: 5
+INFO:__main__:🔄 Starting continuous fetch worker for research
+INFO:__main__:🔄 Starting fetch cycle for domain: research, count: 5
+INFO:__main__:🔴 Starting Binance WebSocket stream
+INFO:__main__:🔄 Starting data processing worker
+INFO:__main__:✅ Started 4 background threads
+✅ Initialized 2 data streams
+
+📊 Data Integration Cycle 1
+------------------------------
+Processing financial_analysis domain...
+INFO:__main__:🔄 Starting fetch cycle for domain: financial_analysis, count: 15
+WARNING:__main__:No entries in coindesk_rss feed
+INFO:__main__:✅ EMMS Integration: 5/5 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 30 raw → 30 quality → 30 unique → 30 novel → 5 experiences
+INFO:__main__:✅ financial_analysis: 5 experiences processed
+INFO:__main__:✅ EMMS Integration: 15/15 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 30 raw → 30 quality → 30 unique → 30 novel → 15 experiences
+   Raw data fetched: 30
+   Quality filtered: 30
+   Deduplicated: 30
+   Novel content: 30
+   Experiences created: 15
+   Cycle time: 5.27s
+
+Processing research domain...
+INFO:__main__:🔄 Starting fetch cycle for domain: research, count: 15
+INFO:__main__:✅ EMMS Integration: 5/5 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 15 raw → 15 quality → 15 unique → 15 novel → 5 experiences
+INFO:__main__:✅ research: 5 experiences processed
+WARNING:__main__:No entries in coindesk_rss feed
+INFO:__main__:✅ EMMS Integration: 15/15 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 15 raw → 15 quality → 15 unique → 15 novel → 15 experiences
+   Raw data fetched: 15
+   Quality filtered: 15
+   Deduplicated: 15
+   Novel content: 15
+   Experiences created: 15
+   Cycle time: 3.99s
+
+📊 Data Integration Cycle 2
+------------------------------
+Processing financial_analysis domain...
+INFO:__main__:🔄 Starting fetch cycle for domain: financial_analysis, count: 15
+INFO:__main__:✅ EMMS Integration: 15/15 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 30 raw → 30 quality → 30 unique → 30 novel → 15 experiences
+   Raw data fetched: 30
+   Quality filtered: 30
+   Deduplicated: 30
+   Novel content: 30
+   Experiences created: 15
+   Cycle time: 1.93s
+
+Processing research domain...
+INFO:__main__:🔄 Starting fetch cycle for domain: research, count: 15
+ERROR:binance.ws.reconnecting_websocket:Failed to connect to websocket: timed out during opening handshake
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-3' coro=<ThreadedApiManager.start_listener() done, defined at /Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/binance/ws/threaded_stream.py:54> exception=TimeoutError('timed out during opening handshake')>
+Traceback (most recent call last):
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/client.py", line 541, in __await_impl__
+    self.connection = await self.create_connection()
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/client.py", line 467, in create_connection
+    _, connection = await loop.create_connection(factory, **kwargs)
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/asyncio/base_events.py", line 1060, in create_connection
+    sock = await self._connect_sock(
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/asyncio/base_events.py", line 969, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/asyncio/selector_events.py", line 501, in sock_connect
+    return await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/client.py", line 539, in __await_impl__
+    async with asyncio_timeout(self.open_timeout):
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/async_timeout.py", line 181, in __aexit__
+    self._do_exit(exc_type)
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/async_timeout.py", line 268, in _do_exit
+    raise asyncio.TimeoutError
+asyncio.exceptions.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/binance/ws/threaded_stream.py", line 55, in start_listener
+    async with socket as s:
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/binance/ws/reconnecting_websocket.py", line 91, in __aenter__
+    await self.connect()
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/binance/ws/reconnecting_websocket.py", line 136, in connect
+    raise e
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/binance/ws/reconnecting_websocket.py", line 132, in connect
+    self.ws = await self._conn.__aenter__()
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/client.py", line 587, in __aenter__
+    return await self
+  File "/Users/shehzad/.pyenv/versions/3.10.13/lib/python3.10/site-packages/websockets/asyncio/client.py", line 578, in __await_impl__
+    raise TimeoutError("timed out during opening handshake") from exc
+asyncio.exceptions.TimeoutError: timed out during opening handshake
+WARNING:__main__:No entries in coindesk_rss feed
+INFO:__main__:✅ EMMS Integration: 15/15 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 15 raw → 15 quality → 15 unique → 15 novel → 15 experiences
+   Raw data fetched: 15
+   Quality filtered: 15
+   Deduplicated: 15
+   Novel content: 15
+   Experiences created: 15
+   Cycle time: 4.85s
+
+📊 Data Integration Cycle 3
+------------------------------
+Processing financial_analysis domain...
+INFO:__main__:🔄 Starting fetch cycle for domain: financial_analysis, count: 15
+INFO:__main__:✅ EMMS Integration: 15/15 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 30 raw → 30 quality → 30 unique → 30 novel → 15 experiences
+   Raw data fetched: 30
+   Quality filtered: 30
+   Deduplicated: 30
+   Novel content: 30
+   Experiences created: 15
+   Cycle time: 1.83s
+
+Processing research domain...
+INFO:__main__:🔄 Starting fetch cycle for domain: research, count: 15
+WARNING:__main__:No entries in coindesk_rss feed
+INFO:__main__:✅ EMMS Integration: 15/15 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 15 raw → 15 quality → 15 unique → 15 novel → 15 experiences
+   Raw data fetched: 15
+   Quality filtered: 15
+   Deduplicated: 15
+   Novel content: 15
+   Experiences created: 15
+   Cycle time: 4.94s
+
+🔍 Comprehensive Memory Retrieval Test
+----------------------------------------
+Retrieved 10 memories:
+   Hierarchical: 5
+   Cross-modal: 5
+   Advanced: 0
+   Retrieval time: 0.036s
+
+Top Retrieved Memories:
+   1. Score: 1.280 | Sources: cross_modal
+   2. Score: 1.279 | Sources: cross_modal
+   3. Score: 1.279 | Sources: cross_modal
+   4. Score: 1.201 | Sources: cross_modal
+   5. Score: 1.195 | Sources: cross_modal
+
+🔧 Synchronizing Statistics...
+INFO:__main__:Cleaned up 0 weak semantic concepts
+
+🔍 Statistics Validation:
+   EMMS processed: 100
+   Data integrator processed: 100
+   Cross-modal counts: [100, 100, 100, 100, 100, 100]
+   ✅ Cross-modal consistency: GOOD
+   ✅ System counter consistency: GOOD
+📈 Complete System Statistics
+----------------------------------------
+Enhanced Memory System:
+   Experiences processed: 100
+   Average processing time: 0.002s
+   Processing efficiency: 3.70 exp/sec
+
+Memory Components:
+   Working memory: 7/7
+   Short-term memory: 0/50
+   Long-term memory: 0
+   Semantic concepts: 0
+
+Token Management:
+   Context utilization: 13.55%
+   Evicted tokens: 0
+   Unique evicted: 0
+
+Cross-Modal System:
+   text: 100 experiences
+   visual: 100 experiences
+   audio: 100 experiences
+   temporal: 100 experiences
+   spatial: 100 experiences
+   emotional: 100 experiences
+
+Real-time Data Integration:
+   Total fetched: 180
+   Total processed: 100
+   Quality filtered: 180
+   Duplicates removed: 0
+   Active streams: 2
+
+📊 Performance Analysis
+------------------------------
+Overall System Performance:
+   Processing efficiency: 3.70 exp/sec
+   Token utilization: 13.5%
+   Memory utilization: 50.0%
+   ⚡ GOOD PERFORMANCE - System functioning well
+
+🛑 Shutting down systems...
+INFO:__main__:🛑 Stopping all data streams...
+INFO:__main__:✅ Binance WebSocket stopped
+INFO:__main__:🛑 Continuous fetch worker for financial_analysis stopped
+INFO:__main__:🛑 Continuous fetch worker for research stopped
+INFO:__main__:✅ Binance WebSocket stopped
+INFO:__main__:🛑 Data processing worker stopped
+INFO:__main__:✅ All data streams stopped
+INFO:__main__:🛑 Shutting down RealTimeDataIntegrator...
+INFO:__main__:🛑 Stopping all data streams...
+INFO:__main__:✅ Binance WebSocket stopped
+INFO:__main__:✅ All data streams stopped
+INFO:__main__:✅ RealTimeDataIntegrator shutdown complete
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session 8bfae7e8 processed 100 experiences
+✅ Complete EMMS.py Demonstration Finished!
+
+🏆 Successfully Demonstrated:
+   ✓ Token-level context management with intelligent eviction
+   ✓ Graph-theoretic boundary refinement with multiple algorithms
+   ✓ Hierarchical memory system with automatic consolidation
+   ✓ Memory compression with pattern detection and abstractions
+   ✓ Multi-strategy retrieval with ensemble methods
+   ✓ Cross-modal memory integration across 6 modalities
+   ✓ Real-time data integration with quality assessment
+   ✓ Content deduplication and novelty detection
+   ✓ Comprehensive system integration and coordination
+
+🧠 This represents the most advanced memory management system
+   for persistent identity AI, combining cutting-edge techniques
+   from neuroscience, cognitive science, and computer science.
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 EMMS.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 4
+🔬 Performance Testing Mode
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for financial_analysis
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+Processed 10/50 experiences...
+Processed 20/50 experiences...
+Processed 30/50 experiences...
+Processed 40/50 experiences...
+Processed 50/50 experiences...
+
+📊 Performance Results:
+   Total time: 0.08s
+   Experiences/second: 627.17
+   Average processing time: 0.002s
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session 897d7d0e processed 50 experiences
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 EMMS.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 2
+🧠 Enhanced Memory Management System - Comprehensive Demo
+================================================================================
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for financial_analysis
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+Processing 8 test experiences...
+
+📝 Processing Experience 1: Bitcoin price surges 15% following institutional a...
+   ⏱️  Processing time: 0.004s
+   🧮 Token processing: 8 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 2: Federal Reserve announces interest rate decision a...
+   ⏱️  Processing time: 0.003s
+   🧮 Token processing: 17 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 3: Machine learning breakthrough in natural language ...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 25 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 4: Tesla reports record quarterly earnings with stron...
+   ⏱️  Processing time: 0.005s
+   🧮 Token processing: 36 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 5: New AI model demonstrates superior performance in ...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 46 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 6: Cryptocurrency regulations proposed by European Un...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 55 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 7: Quantum computing research achieves milestone in e...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 63 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+📝 Processing Experience 8: Stock market shows resilience despite geopolitical...
+   ⏱️  Processing time: 0.002s
+   🧮 Token processing: 70 tokens
+   🏛️  Hierarchical storage: working
+   🌐 Cross-modal: N/A
+
+🔍 Testing Comprehensive Retrieval
+----------------------------------------
+Retrieved 6 relevant memories:
+   Hierarchical: 3
+   Cross-modal: 3
+   Advanced: 0
+   Retrieval time: 0.002s
+
+Top Retrieved Memories:
+   1. Score: 1.309 | Sources: cross_modal
+   2. Score: 1.292 | Sources: cross_modal
+   3. Score: 1.234 | Sources: cross_modal
+
+📊 Comprehensive System Statistics
+----------------------------------------
+Session ID: f20da09a
+Experiences processed: 8
+Average processing time: 0.003s
+Processing efficiency: 385.47 exp/sec
+
+Component Statistics:
+   Token Management:
+     Context utilization: 0.22%
+     Evicted tokens: 0
+   Hierarchical Memory:
+     Working memory: 7/7
+     Short-term memory: 0/50
+     Long-term memory: 0
+     Semantic concepts: 0
+   Cross-Modal System:
+     text: 8 experiences
+     visual: 8 experiences
+     audio: 8 experiences
+     temporal: 8 experiences
+     spatial: 8 experiences
+     emotional: 8 experiences
+
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session f20da09a processed 8 experiences
+✅ Enhanced Memory System Demo Complete!
+
+Key Features Demonstrated:
+   ✓ Token-level context management with intelligent eviction
+   ✓ Graph-theoretic boundary refinement
+   ✓ Hierarchical memory with consolidation
+   ✓ Memory compression with pattern detection
+   ✓ Multi-strategy advanced retrieval
+   ✓ Cross-modal memory integration
+   ✓ Comprehensive ensemble retrieval
+(base) ❯❯❯❯ /Users/shehzad/.pyenv/versions/3.10.13/bin/python /Users/shehzad/Desktop/ShehzadAi/EMMS.py
+🎯 EMMS.py - Enhanced Memory Management System
+Choose demonstration mode:
+1. Complete system demonstration (recommended)
+2. Memory components only
+3. Real-time integration only
+4. Performance testing
+Choice (1-4): 3
+INFO:__main__:Cleaned up 0 weak semantic concepts
+INFO:__main__:Enhanced Integrated Memory System initialized for general
+INFO:__main__:Model architecture: gemma3n:e4b
+INFO:__main__:Context window: 32000
+INFO:__main__:✅ Binance client initialized
+INFO:__main__:✅ Web3 client initialized
+INFO:__main__:✅ API clients initialized successfully
+INFO:__main__:🚀 Bulletproof RealTimeDataIntegrator initialized successfully
+🌐 Real-time Data Integration Demo
+INFO:__main__:🔄 Starting fetch cycle for domain: financial_analysis, count: 20
+INFO:__main__:✅ EMMS Integration: 20/20 experiences processed into hierarchical memory
+INFO:__main__:✅ Cycle complete: 30 raw → 30 quality → 30 unique → 30 novel → 20 experiences
+Processed 20 experiences in 4.04s
+INFO:__main__:Enhanced Integrated Memory System shutdown complete
+INFO:__main__:Session 2eaec10e processed 20 experiences
+(base) ❯❯❯❯                                                                   
