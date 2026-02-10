@@ -15,31 +15,9 @@
       "Cross-domain knowledge integration"
     ]
   },
-  "relationships": {
-    "Shehzad": {
-      "first_met": "2025-07-15T02:14:06.594148",
-      "interactions": [
-        {
-          "timestamp": "2025-07-15T02:14:06.594161",
-          "content": "my name is Shehzad Boss",
-          "type": "identity_formation"
-        }
-      ],
-      "importance": 0.8,
-      "relationship_type": "user",
-      "personality_notes": "",
-      "shared_experiences": []
-    }
-  },
-  "narrative_history": [
-    {
-      "timestamp": "2025-07-15T02:14:06.594157",
-      "event": "First meeting with Shehzad",
-      "significance": "identity_formation",
-      "details": "my name is Shehzad Boss"
-    }
-  ],
+  "relationships": {},
+  "narrative_history": [],
   "personality_evolution": [],
-  "created": "2025-07-15T02:13:37.408506",
-  "last_updated": "2025-07-15T02:14:06.594164"
+  "created": "2025-07-16T12:50:52.639478",
+  "last_updated": "2025-07-16T12:50:52.639486"
 }
